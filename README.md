@@ -16,6 +16,8 @@ npm install --save lodash
 https://babeljs.io/docs/setup/#installation
 https://babeljs.io/docs/plugins/preset-env/
 http://babeljs.io/docs/usage/babelrc/
-https://www.valentinog.com/blog/react-webpack-babel/
 https://github.com/reactjs/react-basic
 https://webpack.js.org/guides/getting-started/
+
+https://www.valentinog.com/blog/react-webpack-babel/
+https://travishorn.com/passing-data-between-classes-components-in-react-4f8fea489f80
