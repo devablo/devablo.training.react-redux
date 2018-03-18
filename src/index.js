@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Comments from './containers/comments'
+import App from './components/app'
+import {Provider} from "react-redux";
+import store from "./store.js";
 
 ReactDOM.render(
-  <Comments />,
+  <Provider store={store}>
+      <App />
+  </Provider>,
   document.getElementById("root")
 );

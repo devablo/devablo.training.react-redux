@@ -9,7 +9,7 @@ npm install --save-dev babel-cli
 npm install babel-preset-env --save-dev
 npm install --save-dev webpack
 npm install webpack-cli -D
-npm install --save lodash
+npm i --save-dev babel-plugin-transform-object-rest-spread
 
 
 ### Links
